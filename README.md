@@ -4,7 +4,7 @@
 
 A Progressive Web Application to see SpaceX Launches 🚀
 
-![spacex]()
+![spacex](https://github.com/aravind-alpha/spacex/blob/main/screenshots/Screenshot.png)
 
 ## 🗃 &nbsp; Built with
 
@@ -54,6 +54,19 @@ Run the Application
 ```shell
 npm start
 ```
+
+## ✨ &nbsp; Highlights &nbsp;🎯
+
+- A Progressive Web Application, which can be installed on any PWA compatible mobile devices. 
+- Fully responsive to covers all range of device.
+- Used Lazy Loading to defer loading off-screen images which results in reduced initial page load time.
+- Uses infinite scrolling approach to render the launch list in multiple steps, resulting in reduced dom elements on initial page load.
+- Uses memoizing to prevent unnecessary re-renders, increasing the performance of Functional Components.
+- Used Best Practices and Performance Optimizations, resulting in a better Lighthouse score.
+
+## ⚡️ &nbsp; Lighthouse Performance
+
+![Lighthouse](https://github.com/aravind-alpha/spacex/blob/main/screenshots/Performance.png)
 
 ## 👨‍🍳 &nbsp; Crafted by
 
