@@ -10,7 +10,7 @@ A Progressive Web Application to see SpaceX Launches 🚀
 
 [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm)
 ![react](https://img.shields.io/badge/frontend-react-61dafb?style=flat&logo=React)
-![redux](https://img.shields.io/badge/styling-styled--components-%23DB7093?style=flat&logo=redux)
+![redux](https://img.shields.io/badge/state-redux-%23DB7093?style=flat&logo=redux)
 
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
