@@ -4,7 +4,7 @@
 
 A Progressive Web Application to see SpaceX Launches 🚀
 
-![spacex](https://github.com/aravind-alpha/spacex/blob/main/screenshots/Screenshot.png)
+![spacex](https://github.com/engineeringwitharavind/spacex/blob/main/screenshots/Screenshot.png)
 
 ## 🗃 &nbsp; Built with
 
@@ -42,7 +42,7 @@ npm -v
 
 After checking the requirements, Clone the Repository using the below command
 ```shell
-git clone https://github.com/aravind-alpha/spacex.git
+git clone https://github.com/engineeringwitharavind/spacex.git
 ```
 
 Go to the directory and Install all the Dependancies using this
@@ -66,7 +66,7 @@ npm start
 
 ## ⚡️ &nbsp; Lighthouse Performance
 
-![Lighthouse](https://github.com/aravind-alpha/spacex/blob/main/screenshots/Performance.png)
+![Lighthouse](https://github.com/engineeringwitharavind/spacex/blob/main/screenshots/Performance.png)
 
 ## 🛠 &nbsp; Crafted by
 
