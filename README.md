@@ -68,7 +68,7 @@ npm start
 
 ![Lighthouse](https://github.com/aravind-alpha/spacex/blob/main/screenshots/Performance.png)
 
-## 👨‍🍳 &nbsp; Crafted by
+## 🛠 &nbsp; Crafted by
 
-[![](https://github.com/aravind-alpha.png?size=50)](https://github.com/aravind-alpha)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aravind-alpha)
+[![](https://github.com/aravind-alpha.png?size=50)](https://github.com/engineeringwitharavind)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/engineeringwitharavind)
